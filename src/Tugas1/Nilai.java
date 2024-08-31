@@ -19,13 +19,13 @@ public class Nilai {
     }
     //membuat method untuk menampilkan data nilai
     void tampilkan(){
-        System.out.println();
         System.out.println("NIM                    : "+nim);
         System.out.println("Nama                   : "+nama);
         System.out.println("NIlai Absen [10%]      : "+Math.round(nilaiabsen));
         System.out.println("Nilai Tugas [20%]      : "+Math.round(nilaitugas));
-        System.out.println("Nilai UTS [30])        : "+Math.round(nilaiuts));
-        System.out.println("Nilai UAS [40])        : "+Math.round(nilaiuas));
+        System.out.println("Nilai UTS [30%]        : "+Math.round(nilaiuts));
+        System.out.println("Nilai UAS [40%]        : "+Math.round(nilaiuas));
         System.out.println("Nilai Akhir            : "+Math.round(Nilai()));
+        System.out.println(); //untuk enter baris
     }
 }
