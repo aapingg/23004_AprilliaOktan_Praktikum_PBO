@@ -3,11 +3,6 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
 package Tugas1;
-
-/**
- *
- * @author Asus
- */
 public class DemoNilai {
     public static void main(String[] args) {
         //objek mahasiswa

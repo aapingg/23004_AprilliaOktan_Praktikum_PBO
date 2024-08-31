@@ -3,11 +3,6 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 package Tugas1;
-
-/**
- *
- * @author Asus
- */
 public class Nilai {
     long nim;
     String nama;
