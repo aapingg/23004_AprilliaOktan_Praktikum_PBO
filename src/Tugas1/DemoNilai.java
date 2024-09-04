@@ -14,7 +14,7 @@ public class DemoNilai {
         mahasiswaA.nilaiuts = 100;
         mahasiswaA.nilaiuas = 100;
         
-        //membuat objek siswa
+        //objek mahasiswa
         Nilai mahasiswaB = new Nilai();
         mahasiswaB.nim = 2310631170005L;
         mahasiswaB.nama = "Anggana";
