@@ -1,6 +1,6 @@
 package Tugas2;
 
-public class Matematika implements MatematikaInterface{
+public class Matematika{
     
     //method pertambahan
     public int pertambahan(int a, int b){
@@ -26,7 +26,7 @@ public class Matematika implements MatematikaInterface{
     //method pembagian
     public int pembagian(int a, int b) {
         int g = a / b;
-        System.out.println("Pembagian: 21 * 2 = " + g);
+        System.out.println("Pembagian: 21 / 2 = " + g);
         return g = a / b;
     }
 }
