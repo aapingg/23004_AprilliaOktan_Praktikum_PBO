@@ -62,7 +62,7 @@ public class Kalkulator extends javax.swing.JFrame {
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setTitle("Kalkulator");
 
-        jPanel1.setBackground(new java.awt.Color(255, 153, 153));
+        jPanel1.setBackground(new java.awt.Color(255, 153, 255));
 
         area.setFont(new java.awt.Font("Arial", 1, 18)); // NOI18N
 
